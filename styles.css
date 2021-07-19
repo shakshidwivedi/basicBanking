@@ -1,0 +1,22 @@
+#loginModal{
+  color: white;
+  text-align: right;
+}
+.footer{
+  background-color: #7DEDFF;
+  margin: 10px auto;
+  padding: 20px 0px 20px 0px;
+}
+.navbar-dark{
+  background-color: #161D6F;
+}
+.modal-header{
+  background-color: #161D6F;
+}
+
+.modal-body{
+  background-color: #7DEDFF;
+}
+#exampleModalLabel{
+  color: white;
+}
